@@ -68,7 +68,7 @@ class Clients extends Component {
                       <Link to={`/client/${client.id}`}
                       className="btn btn-secondary btn-sm"
                       >
-                        <i class="fas fa-arrow-circle-right" />Details
+                        <i class="fas fa-arrow-circle-right" /> Details
                       </Link>
                     </td>
                   </tr>
